@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b56720b-bc9e-44fe-bf0c-669a02951e5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/public/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/public/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/src/Form/Book_type.php" beforeDir="false" afterPath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/src/Form/Book_type.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/templates/book1/afficher book.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/templates/book1/afficher book.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/templates/book1/formulaire.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/templates/book1/formulaire.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/templates/crud_author/list.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../3A/projet/nom_de_mon_projet/templates/crud_author/list.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/author/chercher.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/author/formulaire.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/author/liste.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/author/update.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/books/formulaire.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/service/Show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/service/list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atelier/Atelier/templates/service/shows.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrositJava-master/PremierProsit/src/Dauphin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrositJava-master/PremierProsit/src/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrositJava-master/PremierProsit/src/aquatique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrositJava-master/PremierProsit/src/terrestique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trying Symfony/Trying/templates/author/listauthor.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trying Symfony/Trying/templates/author/showdetails.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trying Symfony/Trying/templates/show_service/showService.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/packaging/src/Classroom/Classroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/packaging/src/Etudiant/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/wa7dy/exemple/src/ClassRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/wa7dy/exemple/src/Etudiant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/wa7dy/wa7dy/src/ZooManagment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java1/Faculte/src/Faculte/Enseignant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java1/Faculte/src/Faculte/Esprit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java1/polymorphisme/src/Animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java1/polymorphisme/src/Animal/Chat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java1/polymorphisme/src/Animal/Chien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/Prosit2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/src/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/Prosit2/src/ZooManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/programme/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/programme/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/programme/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/programme/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/programme/programme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/prosit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/prosit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/prosit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/prosit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/prosit/prosit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/untitled1/src/Classroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaProgramtion/untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet/my_project_name/.idea/my_project_name.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projet/my_project_name/templates/home/contact.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test/templates/categorie/formulaire.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test/templates/categorie/liste.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test/templates/categorie/update.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test/templates/produit/formulaire.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test/templates/produit/liste.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test/templates/produit/update.html.twig" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2neZfEUdCImxDx0FCca4MoJL7Y3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/motez/OneDrive/Bureau/prositjava-allprosit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b56720b-bc9e-44fe-bf0c-669a02951e5c" name="Changes" comment="" />
+      <created>1730801218964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730801218964</updated>
+      <workItem from="1730801220004" duration="2050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
